@@ -20,7 +20,7 @@ We compared each technique on the basis of time of execution and accuracy on ima
 
 ### Algorithm on Image Dataset - Accuracy
 
-|   Algorithm   | Execution Time |
+|   Algorithm   |    Accuracy    |
 | ------------- | -------------  |
 |     PCA       |     0.98       |
 |     SVD       |     0.64       |
@@ -41,7 +41,7 @@ We compared each technique on the basis of time of execution and accuracy on ima
 
 ### Algorithm on Tabular Dataset - Accuracy
 
-|   Algorithm   | Execution Time |
+|   Algorithm   |    Accuracy    |
 | ------------- | -------------  |
 |     PCA       |     0.58       |
 |     SVD       |     0.68       |
